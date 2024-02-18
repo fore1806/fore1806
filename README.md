@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+<h1 align="center"> Hi there, I am Felipe Forero 👋</h1>
+</div>
 <!--
 **fore1806/fore1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
