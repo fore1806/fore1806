@@ -4,8 +4,8 @@
 
 
 <div style = "display: block" >
-<img style="margin-bottom: 20px" src = "https://github-readme-stats.vercel.app/api?username=mora200217&theme=radical" align = "left" width = "47%"/> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mora200217&layout=compact" align = "right" width = "47%"/> 
+<img style="margin-bottom: 20px" src = "https://github-readme-stats.vercel.app/api?username=fore1806&theme=radical" align = "left" width = "47%"/> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fore1806&layout=compact" align = "right" width = "47%"/> 
 </div>
 
 <!--
