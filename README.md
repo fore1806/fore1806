@@ -1,6 +1,13 @@
 <div align="center">
 <h1 align="center"> Hi there, I am Felipe Forero 👋</h1>
 </div>
+
+
+<div style = "display: block" >
+<img style="margin-bottom: 20px" src = "https://github-readme-stats.vercel.app/api?username=mora200217&theme=radical" align = "left" width = "47%"/> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mora200217&layout=compact" align = "right" width = "47%"/> 
+</div>
+
 <!--
 **fore1806/fore1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
