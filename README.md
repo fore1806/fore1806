@@ -2,6 +2,7 @@
 <h1 align="center"> Hi there, I am Felipe Forero 👋</h1>
 </div>
 
+I am a mechatronics engineering student passionate about knowledge, cultures, and languages.
 
 <div style = "display: block" >
 <img style="margin-bottom: 20px" src = "https://github-readme-stats.vercel.app/api?username=fore1806&theme=radical" align = "left" width = "47%"/> 
